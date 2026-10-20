@@ -1,0 +1,6 @@
+,bullet 5y,barbell 2y/30y
+parallel +100bp,-4.26,-4.06
+parallel -100bp,4.49,4.74
+bear steepener,-0.47,-2.55
+bull flattener,0.47,3.19
+"butterfly (wings +50, belly -50)",2.21,-2.11
